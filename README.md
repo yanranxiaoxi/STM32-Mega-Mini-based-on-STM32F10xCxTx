@@ -8,7 +8,7 @@
 
 ## 🤔 这是什么
 
-这是一个基于 STM32F0xxKxTx 系列单片机的 STM32 Mega Mini 开发板，使用 [立创 EDA](https://lceda.cn/) 进行开发。
+这是一个基于 STM32F10xCxTx 系列单片机的 STM32 Mega Mini 开发板，使用 [立创 EDA](https://lceda.cn/) 进行开发。
 
 所有支持的 MCU 型号已在下方列出，列出的未经测试的 MCU 仅为理论可以支持，不作兼容性保证。
 
