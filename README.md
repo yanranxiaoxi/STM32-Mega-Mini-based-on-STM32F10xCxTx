@@ -5,7 +5,7 @@
 [![pipeline status](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/commits/master)
 [![Latest Release](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/releases)
 
-[GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx) | [OSHWHub](https://oshwhub.com/yanranxiaoxi/STM32-Mega-Mini-based-on-STM32F10xCxTx)
+🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/STM32-Mega-Mini-based-on-STM32F10xCxTx)
 
 ![实拍图](https://downloadserver.soraharu.com:7000/STM32%20Mega%20Mini%20based%20on%20STM32F10xCxTx/Image/Product_quality_3.jpg)
 
