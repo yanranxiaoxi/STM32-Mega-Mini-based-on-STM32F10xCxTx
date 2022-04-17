@@ -2,9 +2,7 @@
 
 ⭐ 基于 STM32F10xCxTx 系列单片机的 STM32 Mega Mini 开发板 ⭐
 
-[![pipeline status](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/commits/master)
-[![Latest Release](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/releases)
-[![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
+[![pipeline status](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/commits/master) [![Latest Release](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx/-/releases) [![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
 
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/STM32-Mega-Mini-based-on-STM32F10xCxTx) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/STM32-Mega-Mini-based-on-STM32F10xCxTx) | 🔗 [GitHub](https://github.com/yanranxiaoxi/STM32-Mega-Mini-based-on-STM32F10xCxTx)
 
